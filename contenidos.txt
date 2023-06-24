@@ -1,0 +1,3 @@
+modulo1: programacion en python. 
+modulo2: lenguaje de consulta a base de datos.
+modulo3: fundamentos de desarrollo web.
